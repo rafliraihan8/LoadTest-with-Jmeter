@@ -22,7 +22,7 @@ The following requirements exist for running Apache JMeter:
   > **Note** that a compiler is required to build plugins for Apache JMeter.
 
 ## Installation
-To download and install Katalon Studio, visit the website: https://www.katalon.com/katalon-studio/](https://jmeter.apache.org/download_jmeter.cgi
+To download and install Katalon Studio, visit the website: https://jmeter.apache.org/download_jmeter.cgi
 - You can choose Source download or if you can open the jMeter you can choose Binaries download
 
 ## Running JMeter
